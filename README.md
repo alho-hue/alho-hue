@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alhousseyni Diallo</h1>
+<h1 align="center">Hi 👋, I'm ffomix.ax</h1>
 
 <h3 align="center">C & Python Developer | Learning and Building Every Day</h3>
 
@@ -55,4 +55,5 @@
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/alho-hue
+- GitHub : [https://github.com/alho-hue](https://github.com/alho-hue)
+- 📧 Email: alhousseynid504@gmail.com
