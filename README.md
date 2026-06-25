@@ -55,5 +55,5 @@
 
 ## 📫 Connect With Me
 
-- GitHub : [here](https://github.com/alho-hue)
-- 📧 Email: alhousseynid504@gmail.com
+- 💬 **Discord** : `Ousseyne_1` (ping me, I'm always down to talk code)
+- 📧 **Email** : alhousseynid504@gmail.com
